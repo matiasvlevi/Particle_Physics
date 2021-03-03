@@ -4,10 +4,18 @@
 ##### 2019-04-03
 Pygame program with simple particle physics & different elements. 
 
-##### Physiscs
-* Gravity (all elements)
-* Fluid simulation (water)
-* Static (wall)
+##### Elements:
+* RCK (rock)
+* SND (sand)
+* DRT (dirt)
+* WTR (water)
+* WLL (wall)
+
+##### Physiscs:
+* Gravity (RCK,SND,DRT,WTR)
+* Fluid simulation (WTR)
+* Static (WLL)
+
 
 
 ### Requirements
