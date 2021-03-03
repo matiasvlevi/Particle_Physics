@@ -25,3 +25,7 @@ Pygame program with simple particle physics & different elements.
 ### Usage
 
 Run one of the two batch files.
+
+### Example
+
+[![elements.png](https://i.postimg.cc/52nWcKL7/elements.png)](https://postimg.cc/K1kHBN9B)
