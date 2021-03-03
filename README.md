@@ -1,6 +1,6 @@
 
 
-# Particle Phyisics Simulation
+# Particle Physics Simulation
 ##### 2019-04-03
 Pygame program with simple particle physics & different elements. 
 
