@@ -1,6 +1,6 @@
 
 
-# Pixel Fluid Simulation
+# Particle Phyisics Simulation
 ##### 2019-04-03
 Pygame program with simple particle physics & different elements. 
 
