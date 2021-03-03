@@ -2,7 +2,12 @@
 
 # Pixel Fluid Simulation
 ##### 2019-04-03
-This is a pygame program with simple particle physics.
+Pygame program with simple particle physics & different elements. 
+
+##### Physiscs
+* Gravity (all elements)
+* Fluid simulation (water)
+* Static (wall)
 
 
 ### Requirements
