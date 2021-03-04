@@ -11,7 +11,7 @@ Pygame program with simple particle physics & different elements.
 * WTR (water)
 * WLL (wall)
 
-##### Physiscs:
+##### Physics:
 * Gravity (RCK,SND,DRT,WTR)
 * Fluid simulation (WTR)
 * Static (WLL)
