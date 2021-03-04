@@ -19,7 +19,7 @@ Pygame program with simple particle physics & different elements.
 
 
 ### Requirements
-* pygame
+* pygame as a global module
 
 
 ### Usage
